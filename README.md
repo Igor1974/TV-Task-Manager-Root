@@ -22,3 +22,10 @@ Advanced Root Task Manager and System Optimizer for Android TV (TCL specialized)
 * **Чистка системы:** Добавлен алгоритм удаления мусорных логов TCL и системных дампов для освобождения места в `/data`.
 * **Интеллект:** Автоматическое определение и подавление «наглых» процессов, восстанавливающих свой автозапуск.
 * **UI:** Текст системных отчетов стал более строгим и технически информативным.
+<p align="center">
+  <img src="screenshots/screen1.png" width="400">
+  <img src="screenshots/screen2.png" width="400">
+  <img src="screenshots/screen3.png" width="400">
+  <img src="screenshots/screen4.png" width="400">
+
+</p>
