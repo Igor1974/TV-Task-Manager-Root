@@ -2,7 +2,6 @@
 
 **Версия:** 2.0.1 (Stable)  
 **Движок:** Apex Engine v2.0  
-**Разработчик:** ~Игорь~ (4PDA)  
 **Требования:** Android 9+, **ROOT** (Magisk / KernelSU)
 
 ---
